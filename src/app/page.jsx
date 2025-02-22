@@ -38,7 +38,17 @@ export default function CreativeGreeting() {
           }
         `}</style>
       </h1>
-      
+      <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/74O0cE-GxPs?si=-D8vul3p8cC3WrXb"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+          className="rounded-lg shadow-lg"
+        ></iframe>
     </main>
   )
 }
